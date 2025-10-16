@@ -124,7 +124,7 @@ project-management/
 
 ### 1 Clone the Repository
   ```bash
-    git clone https://github.com/<your-username>/project-management-backend.git
+    git clone https://github.com/kunj-pandya/project-management-backend.git
     cd project-management-backend
   ```
 
